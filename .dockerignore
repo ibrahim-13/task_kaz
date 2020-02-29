@@ -1,0 +1,6 @@
+backend/node_modules
+backend/public
+backend/build
+
+ui/node_modules
+ui/build
